@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Razor.Runtime" Version="2.2.0" />
-    <PackageReference Include="Piranha" Version="8.1.0" />
+    <PackageReference Include="Piranha" Version="10.0.0" />
     <PackageReference Include="Piranha.AspNetCore" Version="8.1.0" />
     <PackageReference Include="Piranha.AspNetCore.Identity.SQLite" Version="8.1.0" />
     <PackageReference Include="Piranha.AttributeBuilder" Version="8.1.0" />
